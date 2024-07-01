@@ -1,0 +1,56 @@
+[
+    {
+        "topleft": [57.82,  88.99],
+        "btmright": [62.18, 81.54],
+        "imageName": "undrcity-1",
+        "image": "/assets/undrcity/undrcity-1.png"
+     },
+     {
+        "topleft": [93.64, 53.43],
+        "btmright": [ 97.86, 59.49],
+        "imageName": "undrcity-2",
+        "image": "/assets/undrcity/undrcity-2.png"
+     },
+     {
+        "topleft": [65.53, 67.52],
+        "btmright": [ 68.01, 69.42],
+        "imageName": "undrcity-3",
+        "image": "/assets/undrcity/undrcity-3.png"
+     },
+     {
+        "topleft": [9.47, 88.26],
+        "btmright": [12.38, 94.17],
+        "imageName": "undrcity-4",
+        "image": "/assets/undrcity/undrcity-4.png"
+     },
+     {
+        "topleft": [5.25, 10.10],
+        "btmright": [7.49, 12.58],
+        "imageName": "undrcity-5",
+        "image": "/assets/undrcity/undrcity-5.png"
+     },
+     {
+        "topleft": [75.03, 50.98],
+        "btmright": [77.83, 52.43],
+        "imageName": "undrcity-6",
+        "image": "/assets/undrcity/undrcity-6.png"
+     },
+     {
+        "topleft": [18.06, 86.53],
+        "btmright": [23.45, 91.57],
+        "imageName": "undrcity-7",
+        "image": "/assets/undrcity/undrcity-7.png"
+     },
+     {
+        "topleft": [92.62, 7.16],
+        "btmright": [98.16, 13.87],
+        "imageName": "undrcity-8",
+        "image": "/assets/undrcity/undrcity-8.png"
+     },
+     {
+        "topleft": [9.47, 58.32],
+        "btmright": [12.82, 61.25],
+        "imageName": "undrcity-9",
+        "image": "/assets/undrcity/undrcity-9.png"
+     }
+]

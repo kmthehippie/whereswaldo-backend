@@ -1,0 +1,17 @@
+[
+    {
+        "mapName": "universe113",
+        "mapImage": "/assets/universe113/universe113.jpeg",
+        "imagesToMatch": []
+    },
+    {
+        "mapName": "gotham",
+        "mapImage": "/assets/gotham/gotham.jpeg",
+        "imagesToMatch": []
+    },
+    {
+        "mapName": "undrcity",
+        "mapImage": "/assets/undrcity/undrcity.jpeg",
+        "imagesToMatch": []
+    }
+]

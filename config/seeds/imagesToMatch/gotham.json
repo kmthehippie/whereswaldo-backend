@@ -1,0 +1,56 @@
+[
+    {
+        "topleft": [68.93, 44.16],
+        "btmright": [71.33, 46.81],
+        "imageName": "gotham-1",
+        "image": "/assets/gotham/gotham-1.png"
+     },
+     {
+        "topleft": [69.59, 17.06],
+        "btmright": [71.00, 18.98],
+        "imageName": "gotham-2",
+        "image": "/assets/gotham/gotham-2.png"
+     },
+     {
+        "topleft": [25.92, 83.23],
+        "btmright": [27.24, 84.66],
+        "imageName": "gotham-3",
+        "image": "/assets/gotham/gotham-3.png"
+     },
+     {
+        "topleft": [58.28, 83.71],
+        "btmright": [59.69, 85.47],
+        "imageName": "gotham-4",
+        "image": "/assets/gotham/gotham-4.png"
+     },
+     {
+        "topleft": [85.86, 64.12],
+        "btmright": [87.34, 65.66],
+        "imageName": "gotham-5",
+        "image": "/assets/gotham/gotham-5.png"
+     },
+     {
+        "topleft": [27.74,  61.26],
+        "btmright": [30.21, 63.90],
+        "imageName": "gotham-6",
+        "image": "/assets/gotham/gotham-6.png"
+     },
+     {
+        "topleft": [88.66,  52.80],
+        "btmright": [90.89, 55.06],
+        "imageName": "gotham-7",
+        "image": "/assets/gotham/gotham-7.png"
+     },
+     {
+        "topleft": [9.08,  60.56],
+        "btmright": [11.06, 62.65],
+        "imageName": "gotham-8",
+        "image": "/assets/gotham/gotham-8.png"
+     },
+     {
+        "topleft": [13.04,  44.22],
+        "btmright": [15.44, 46.59],
+        "imageName": "gotham-9",
+        "image": "/assets/gotham/gotham-9.png"
+     }
+]
