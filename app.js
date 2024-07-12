@@ -6,6 +6,7 @@ const compression = require("compression")
 const cors = require("cors")
 const corsCredentials = require("./config/corsCredentials")
 const allowedOrigins = require("./config/allowedOrigins")
+const path = require("path")
 
 //Instantiate routes
 const indexRouter = require("./routes/index")
@@ -22,6 +23,9 @@ const limiter = RateLimit({
 
 //Handle options credential check - before CORS 
 app.use(corsCredentials)
+
+// Serve static files from the React app
+app.use(express.static(path.join(__dirname, '/dist')));
 
 //CORS setup
 const corsOptions = {

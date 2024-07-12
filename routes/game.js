@@ -8,7 +8,7 @@ router.get("/", (req, res, next) => {
     res.status(200).json({ message: "This is the GAME route" });
 });
 
-router.get("/leaderboard", game_controller.leaderboard)
+
 
 router.get("/:mapName", game_controller.game_detail)
 

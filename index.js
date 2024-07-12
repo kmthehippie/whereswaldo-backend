@@ -13,6 +13,6 @@ const port = process.env.PORT
 const app = require("./app")
 
 //Listen to PORT
-app.listen(port , () => {
+app.listen(port , "0.0.0.0", () => {
     console.log("Running on Port " + port)
 })
